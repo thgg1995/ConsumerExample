@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\bin\Debug\net8.0\Caixa.Consumer.Application.deps.json
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\bin\Debug\net8.0\Caixa.Consumer.Application.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\bin\Debug\net8.0\Caixa.Consumer.Application.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\bin\Debug\net8.0\Caixa.Consumer.Domain.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\bin\Debug\net8.0\Caixa.Consumer.Domain.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Co.F95E116C.Up2Date
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\refint\Caixa.Consumer.Application.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\Caixa.Consumer.Application.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Application\obj\Debug\net8.0\ref\Caixa.Consumer.Application.dll

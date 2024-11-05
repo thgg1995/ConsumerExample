@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E2AFE-612C-4B91-946C-AEDF1DBE6527}|Caixa.Consumer.App\\Caixa.Consumer.App.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0E2AFE-612C-4B91-946C-AEDF1DBE6527}|Caixa.Consumer.App\\Caixa.Consumer.App.csproj|solutionrelative:caixa.consumer.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDD8592-FD26-477E-9EA4-F9A6BC82E567}|Caixa.Consumer.Infrastructure\\Caixa.Consumer.Infrastructure.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.infrastructure\\repositories\\messaging\\sqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDD8592-FD26-477E-9EA4-F9A6BC82E567}|Caixa.Consumer.Infrastructure\\Caixa.Consumer.Infrastructure.csproj|solutionrelative:caixa.consumer.infrastructure\\repositories\\messaging\\sqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E2AFE-612C-4B91-946C-AEDF1DBE6527}|Caixa.Consumer.App\\Caixa.Consumer.App.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.app\\caixa.consumer.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF0E2AFE-612C-4B91-946C-AEDF1DBE6527}|Caixa.Consumer.App\\Caixa.Consumer.App.csproj|solutionrelative:caixa.consumer.app\\caixa.consumer.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.application\\interfaces\\ikafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|solutionrelative:caixa.consumer.application\\interfaces\\ikafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.application\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|solutionrelative:caixa.consumer.application\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.application\\services\\eventsubclasseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|solutionrelative:caixa.consumer.application\\services\\eventsubclasseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6EF96-6395-4C37-BAD0-467937DF400A}|Caixa.Consumer.Domain\\Caixa.Consumer.Domain.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.domain\\repositories\\isqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6EF96-6395-4C37-BAD0-467937DF400A}|Caixa.Consumer.Domain\\Caixa.Consumer.Domain.csproj|solutionrelative:caixa.consumer.domain\\repositories\\isqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6EF96-6395-4C37-BAD0-467937DF400A}|Caixa.Consumer.Domain\\Caixa.Consumer.Domain.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.domain\\entities\\kafkaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6EF96-6395-4C37-BAD0-467937DF400A}|Caixa.Consumer.Domain\\Caixa.Consumer.Domain.csproj|solutionrelative:caixa.consumer.domain\\entities\\kafkaconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.application\\services\\eventclasseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC6CBEB5-ABAA-4FC4-8B00-7098018ED651}|Caixa.Consumer.Application\\Caixa.Consumer.Application.csproj|solutionrelative:caixa.consumer.application\\services\\eventclasseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0E2AFE-612C-4B91-946C-AEDF1DBE6527}|Caixa.Consumer.App\\Caixa.Consumer.App.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF0E2AFE-612C-4B91-946C-AEDF1DBE6527}|Caixa.Consumer.App\\Caixa.Consumer.App.csproj|solutionrelative:caixa.consumer.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71F6EF96-6395-4C37-BAD0-467937DF400A}|Caixa.Consumer.Domain\\Caixa.Consumer.Domain.csproj|c:\\users\\thiago\\source\\repos\\caixa.consumer.app\\caixa.consumer.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71F6EF96-6395-4C37-BAD0-467937DF400A}|Caixa.Consumer.Domain\\Caixa.Consumer.Domain.csproj|solutionrelative:caixa.consumer.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventSubClasseService.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Services\\EventSubClasseService.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Application\\Services\\EventSubClasseService.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Services\\EventSubClasseService.cs",
+              "RelativeToolTip": "Caixa.Consumer.Application\\Services\\EventSubClasseService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:25:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISQSRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Domain\\Repositories\\ISQSRepository.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Domain\\Repositories\\ISQSRepository.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Domain\\Repositories\\ISQSRepository.cs",
+              "RelativeToolTip": "Caixa.Consumer.Domain\\Repositories\\ISQSRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T21:02:57.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Interfaces\\IKafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Application\\Interfaces\\IKafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Interfaces\\IKafkaConsumerService.cs",
+              "RelativeToolTip": "Caixa.Consumer.Application\\Interfaces\\IKafkaConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:58:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KafkaConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Domain\\Entities\\KafkaConfiguration.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Domain\\Entities\\KafkaConfiguration.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Domain\\Entities\\KafkaConfiguration.cs",
+              "RelativeToolTip": "Caixa.Consumer.Domain\\Entities\\KafkaConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:55:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Application\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Caixa.Consumer.Application\\Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:54:46.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.App\\Program.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.App\\Program.cs",
+              "RelativeToolTip": "Caixa.Consumer.App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T17:59:55.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.App\\appsettings.json",
+              "RelativeDocumentMoniker": "Caixa.Consumer.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.App\\appsettings.json",
+              "RelativeToolTip": "Caixa.Consumer.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-02T20:56:44.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventClasseService.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Services\\EventClasseService.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Application\\Services\\EventClasseService.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Application\\Services\\EventClasseService.cs",
+              "RelativeToolTip": "Caixa.Consumer.Application\\Services\\EventClasseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T20:11:53.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQSRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Infrastructure\\Repositories\\Messaging\\SQSRepository.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Infrastructure\\Repositories\\Messaging\\SQSRepository.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Infrastructure\\Repositories\\Messaging\\SQSRepository.cs",
+              "RelativeToolTip": "Caixa.Consumer.Infrastructure\\Repositories\\Messaging\\SQSRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:12:58.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Caixa.Consumer.App.csproj",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.App\\Caixa.Consumer.App.csproj",
+              "RelativeDocumentMoniker": "Caixa.Consumer.App\\Caixa.Consumer.App.csproj",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.App\\Caixa.Consumer.App.csproj",
+              "RelativeToolTip": "Caixa.Consumer.App\\Caixa.Consumer.App.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-02T21:43:06.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "Caixa.Consumer.Domain\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\Thiago\\source\\repos\\Caixa.Consumer.App\\Caixa.Consumer.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "Caixa.Consumer.Domain\\Entities\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:21:06.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

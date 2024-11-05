@@ -1,0 +1,11 @@
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\bin\Debug\net8.0\Caixa.Consumer.Domain.deps.json
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\bin\Debug\net8.0\Caixa.Consumer.Domain.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\bin\Debug\net8.0\Caixa.Consumer.Domain.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\Caixa.Consumer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\Caixa.Consumer.Domain.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\Caixa.Consumer.Domain.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\Caixa.Consumer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\Caixa.Consumer.Domain.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\refint\Caixa.Consumer.Domain.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\Caixa.Consumer.Domain.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Domain\obj\Debug\net8.0\ref\Caixa.Consumer.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\bin\Debug\net8.0\Caixa.Consumer.Infrastructure.deps.json
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\bin\Debug\net8.0\Caixa.Consumer.Infrastructure.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\bin\Debug\net8.0\Caixa.Consumer.Infrastructure.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\bin\Debug\net8.0\Caixa.Consumer.Domain.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\bin\Debug\net8.0\Caixa.Consumer.Domain.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Co.DAACA592.Up2Date
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\refint\Caixa.Consumer.Infrastructure.dll
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\Caixa.Consumer.Infrastructure.pdb
+C:\Users\Thiago\source\repos\Caixa.Consumer.App\Caixa.Consumer.Infrastructure\obj\Debug\net8.0\ref\Caixa.Consumer.Infrastructure.dll
